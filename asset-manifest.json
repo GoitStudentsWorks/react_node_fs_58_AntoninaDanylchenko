@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_58_AntoninaDanylchenko/static/css/main.96410912.css",
-    "main.js": "/react_node_fs_58_AntoninaDanylchenko/static/js/main.ab472b96.js",
+    "main.js": "/react_node_fs_58_AntoninaDanylchenko/static/js/main.6c664c2c.js",
     "static/js/233.28db97aa.chunk.js": "/react_node_fs_58_AntoninaDanylchenko/static/js/233.28db97aa.chunk.js",
     "static/js/126.3788b65b.chunk.js": "/react_node_fs_58_AntoninaDanylchenko/static/js/126.3788b65b.chunk.js",
     "static/js/930.f088f6b7.chunk.js": "/react_node_fs_58_AntoninaDanylchenko/static/js/930.f088f6b7.chunk.js",
@@ -101,7 +101,7 @@
     "static/media/name-icon.svg": "/react_node_fs_58_AntoninaDanylchenko/static/media/name-icon.0fa796ea25ccf40a3ad47a8fc4a2c1e9.svg",
     "static/media/arrow-right.svg": "/react_node_fs_58_AntoninaDanylchenko/static/media/arrow-right.baca8947d57e4992eeecacf1fe7d5ebd.svg",
     "main.96410912.css.map": "/react_node_fs_58_AntoninaDanylchenko/static/css/main.96410912.css.map",
-    "main.ab472b96.js.map": "/react_node_fs_58_AntoninaDanylchenko/static/js/main.ab472b96.js.map",
+    "main.6c664c2c.js.map": "/react_node_fs_58_AntoninaDanylchenko/static/js/main.6c664c2c.js.map",
     "233.28db97aa.chunk.js.map": "/react_node_fs_58_AntoninaDanylchenko/static/js/233.28db97aa.chunk.js.map",
     "126.3788b65b.chunk.js.map": "/react_node_fs_58_AntoninaDanylchenko/static/js/126.3788b65b.chunk.js.map",
     "930.f088f6b7.chunk.js.map": "/react_node_fs_58_AntoninaDanylchenko/static/js/930.f088f6b7.chunk.js.map",
@@ -124,6 +124,6 @@
   },
   "entrypoints": [
     "static/css/main.96410912.css",
-    "static/js/main.ab472b96.js"
+    "static/js/main.6c664c2c.js"
   ]
 }
